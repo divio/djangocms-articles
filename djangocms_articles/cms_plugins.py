@@ -6,10 +6,10 @@ from . import models
 
 
 # class ...(CMSPluginBase):
-    # model = models.YourModel
-    # name = 'YourModel Plugin'
-    # render_template = 'templates/plugin.html'
-    # allow_children = True
+#    model = models.YourModel
+#    name = 'YourModel Plugin'
+#    render_template = 'templates/plugin.html'
+#    allow_children = True
 
 
 # plugin_pool.register_plugin(...)
