@@ -12,8 +12,6 @@ This addon is compatible with `Divio Cloud <http://divio.com>`_ and is also avai
 `django CMS Marketplace <https://marketplace.django-cms.org/en/addons/browse/djangocms-articles/>`_
 for easy installation.
 
-.. image:: preview.gif
-
 
 Contributing
 ============
